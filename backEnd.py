@@ -1,5 +1,6 @@
 ﻿''' This is a backend class.
-    I had to leave out exact database commands and use some vague names for variables and methods to make sure no confidential information is present'''
+    I had to leave out exact database commands and use some vague names for variables and methods to 
+    make sure no confidential information is present'''
 
 import socket, psutil, paramiko, warnings, listing, backEnd2, sys, re, os, time, datetime, string, openpyxl, pysftp, paramiko291monkeypatch
 from contextlib import closing
