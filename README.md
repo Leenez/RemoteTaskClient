@@ -1,2 +1,2 @@
 # RemoteTaskClient
-Python algorithm for remote tasks automatizing client
+Python algorithm for remote tasks automating client
